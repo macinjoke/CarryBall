@@ -2,6 +2,8 @@
 
 ボールを運ぶ2Dパズルアクションゲーム。Processingで開発。
 
+![carry_ball_demo](https://cloud.githubusercontent.com/assets/10493229/23090538/8a1027c2-f5e3-11e6-844b-25c4b0fcbc17.gif)
+
 # 環境
 
 Processing3.01
